@@ -1,3 +1,6 @@
+/.idea
+package-lock.json
+
 /.jsdocbuild
 /.jsdoc
 
@@ -9,7 +12,7 @@ lib-cov
 out
 reports
 /dist
-/lib
+# /lib
 /specbuild
 
 # version file and tarball created by 'npm pack'
